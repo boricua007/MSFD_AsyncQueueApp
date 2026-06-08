@@ -8,11 +8,11 @@ The app uses `System.Threading.Channels` to queue work items and process them on
 
 ## Features
 
-- Asynchronous producer-consumer workflow using `Channel<Func<Task>>`
-- Background worker continuously processes queued tasks
-- Main thread remains interactive while tasks run
-- Graceful stop behavior via `exit` command
-- Clean separation of concerns across queue, worker, and entry point classes
+✅ Asynchronous producer-consumer workflow using `Channel<Func<Task>>`
+✅ Background worker continuously processes queued tasks
+✅ Main thread remains interactive while tasks run
+✅ Graceful stop behavior via `exit` command
+✅ Clean separation of concerns across queue, worker, and entry point classes
 
 ## Getting Started
 
