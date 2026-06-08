@@ -1,0 +1,14 @@
+C:\Users\E320418\MSFD_AsyncQueueApp\bin\Debug\net10.0\MSFD_AsyncQueueApp.exe
+C:\Users\E320418\MSFD_AsyncQueueApp\bin\Debug\net10.0\MSFD_AsyncQueueApp.deps.json
+C:\Users\E320418\MSFD_AsyncQueueApp\bin\Debug\net10.0\MSFD_AsyncQueueApp.runtimeconfig.json
+C:\Users\E320418\MSFD_AsyncQueueApp\bin\Debug\net10.0\MSFD_AsyncQueueApp.dll
+C:\Users\E320418\MSFD_AsyncQueueApp\bin\Debug\net10.0\MSFD_AsyncQueueApp.pdb
+C:\Users\E320418\MSFD_AsyncQueueApp\obj\Debug\net10.0\MSFD_AsyncQueueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E320418\MSFD_AsyncQueueApp\obj\Debug\net10.0\MSFD_AsyncQueueApp.AssemblyInfoInputs.cache
+C:\Users\E320418\MSFD_AsyncQueueApp\obj\Debug\net10.0\MSFD_AsyncQueueApp.AssemblyInfo.cs
+C:\Users\E320418\MSFD_AsyncQueueApp\obj\Debug\net10.0\MSFD_AsyncQueueApp.csproj.CoreCompileInputs.cache
+C:\Users\E320418\MSFD_AsyncQueueApp\obj\Debug\net10.0\MSFD_AsyncQueueApp.dll
+C:\Users\E320418\MSFD_AsyncQueueApp\obj\Debug\net10.0\refint\MSFD_AsyncQueueApp.dll
+C:\Users\E320418\MSFD_AsyncQueueApp\obj\Debug\net10.0\MSFD_AsyncQueueApp.pdb
+C:\Users\E320418\MSFD_AsyncQueueApp\obj\Debug\net10.0\MSFD_AsyncQueueApp.genruntimeconfig.cache
+C:\Users\E320418\MSFD_AsyncQueueApp\obj\Debug\net10.0\ref\MSFD_AsyncQueueApp.dll
